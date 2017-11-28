@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Lab 3.2 Input Control</string>
+    <string name="age">Umur</string>
+    <string name="gender">Jantina</string>
+    <string name="male">Lelaki</string>
+    <string name="female">Perempuan</string>
+    <string name="smoker">Perokok?</string>
+    <string name="premium">Premium: </string>
+    <string name="calculate">Kira</string>
+    <string name="reset">Semula</string>
+    <string-array name="age_group">
+        <item>Pilih Umur</item>
+        <item>Kurang daripada 5</item>
+        <item>5 kepada 11</item>
+        <item>12 kepada 16</item>
+        <item>17 kepada 21</item>
+        <item>22 kepada 30</item>
+        <item>31 kepada 40</item>
+        <item>41 kepada 50</item>
+        <item>Lebih daripada 50</item>
+    </string-array>
+</resources>
